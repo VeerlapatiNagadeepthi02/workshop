@@ -1,0 +1,67 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}.dog{
+    background-image: url(frist.avif);
+    width:100vw;
+    height:100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.dog2{
+    background-image: url(second.png);
+    width:100vw;
+    height:100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.dog3{
+    background-image: url(third.png);
+    width:100vw;
+    height:100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.adorable{
+    margin-left: 5vw;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.mainnav{
+    position:fixed;
+    top:0px;
+    z-index: 1;
+    margin-left: 36vw;
+    scroll-behavior:smooth;
+}
+.firstnav{
+    display:flex;
+    gap:3vw;
+   
+    
+}
+
+ .white{
+    background-color: white;
+    width:60vw;
+    height:60vh;
+    display:flex;
+    opacity:0.8;
+    margin-top: 5%;
+ }
+ .dogcard{
+    width:20vw;
+    height:48vh;
+    margin-top: 3vw;
+    margin-left: 3vw;
+    opacity: 1 !important;
+ }
+ .firstcardtxt{
+    margin-top: 9vw;
+    opacity: 1 !important;
+ }
+ 
