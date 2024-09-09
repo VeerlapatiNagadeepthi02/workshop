@@ -52,6 +52,8 @@ a{
     display:flex;
     opacity:0.8;
     margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 10%;
  }
  .dogcard{
     width:20vw;
